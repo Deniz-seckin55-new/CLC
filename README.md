@@ -1,7 +1,3 @@
-## Warning some of this file is written by AI, I know I'm sorry I'll rewrite it later.
-
-Not the project though, I wrote it myself.
-
 # 🐾 CLC Language Specification: Function Declarations & Denoms
 
 This document defines the syntax and semantics of function declarations and operations (denoms) in the CLC language.
@@ -94,3 +90,7 @@ Denoms determine how the `(FunctionName?_Params)` expression behaves. They are p
 ```
 
 ---
+
+## Warning some of this file is written by AI, I know I'm sorry I'll rewrite it later.
+
+Not the project though, I wrote it myself.
