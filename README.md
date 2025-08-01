@@ -1,4 +1,6 @@
-Warning this file is written by AI, I know I'm sorry I'll rewrite it later.
+## Warning some of this file is written by AI, I know I'm sorry I'll rewrite it later.
+
+Not the project though, I wrote it myself.
 
 # 🐾 CLC Language Specification: Function Declarations & Denoms
 
@@ -75,7 +77,6 @@ Denoms determine how the `(FunctionName?_Params)` expression behaves. They are p
 
 - `async` support planned (likely via `async` keyword).
 - Syntax for **explicit return types** will be added.
-- More denoms may be introduced (e.g. `!`, `~`) to support concepts like mutability, ownership, etc.
 
 ---
 
