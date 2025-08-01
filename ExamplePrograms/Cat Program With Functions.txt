@@ -1,0 +1,17 @@
+(println?_Cat Program With Functions)(&)
+
+(getrepeatingline?_)(f)
+(printoutline?_)(f)
+
+getrepeatingline {
+	(line?_string)(*)
+	(readln?_line)(&)
+
+	&line
+}
+
+printoutline arg1 {
+	(println?_&arg1)(&)
+}
+
+(printoutline?_(getrepeatingline?_)(&))(&)

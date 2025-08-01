@@ -1,0 +1,15 @@
+(println?_Truth Machine)(&)
+
+(input?_char)(*)
+
+(read?_input)(&)
+
+if (equals?_&input,(1?_char)(%))(&) {
+	while true {
+		(print?_1)(&)
+	}
+}
+
+if (equals?_&input,(0?_char)(%))(&) {
+	(print?_0)(&)
+}

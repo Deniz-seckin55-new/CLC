@@ -1,0 +1,12 @@
+(println?_Starting server...)(&)
+
+###ServerLibCS
+
+(port?_int)(*)
+(port?_9010)(=)
+
+(server.create?_&port)(&)
+
+while true {
+	
+}

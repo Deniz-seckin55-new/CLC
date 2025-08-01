@@ -1,0 +1,12 @@
+(println?_Connecting to server...)(&)
+
+###ServerLibCS
+
+(host?_127.0.0.1)(=)
+(port?_9010)(=)
+
+(client.create?_&host,&port)(&)
+
+while true {
+
+}

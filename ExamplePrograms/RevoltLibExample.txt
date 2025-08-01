@@ -1,0 +1,28 @@
+###RevoltLibCS
+
+(println?_Revolt CLC)(&)
+
+(email?_string)(*)
+(password?_string)(*)
+(channel?_string)(*)
+
+(email?your@gmail.com)(=)
+(password?_yourpass)(=)
+(channel?_01J31CE4KGTH7DQW4V2D9CWP8Z)(=)
+
+(revoltclc.login?_&email,&password)(&)
+
+(println?_Logged in!)(&)
+
+(input?_string)(*)
+while true {
+	(print?_\nMessage: )(&)
+
+	(readln?_input)(&)
+
+	(revoltclc.send?_&channel,&input)(&)
+
+	(println?_Sent message,&input,!)(&)
+
+	(sleep?_1)(&)
+}

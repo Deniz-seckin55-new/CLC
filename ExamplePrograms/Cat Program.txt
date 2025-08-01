@@ -1,0 +1,7 @@
+(println?_Cat Program)(&)
+
+(input?_string)(*)
+
+(readln?_input)(&)
+
+(println?_&input)(&)
